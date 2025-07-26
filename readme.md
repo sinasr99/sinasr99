@@ -22,3 +22,15 @@ my projects :
 
 ___
 ![Telegram](./telegram.png) ID : @sina_saber_9
+
+___
+
+### My activities chart :
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinasr99&show_icons=true&theme=dark)
+
+___
+
+### My most used languages :
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinasr99&hide_progress=false)

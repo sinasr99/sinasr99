@@ -2,13 +2,7 @@
 
 ___
 
-My Skills :
-![HTML](./html-5.png)
-![CSS](./css-3.png)
-![HTML](./js.png)
-![HTML](./physics.png)
-![HTML](./next.png)
-
+My Skills : HTML + CSS + Java Script + React + Next JS
 ___
 
 my projects : 

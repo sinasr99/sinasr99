@@ -2,7 +2,7 @@
 
 ___
 
-My Skills : HTML + CSS + Java Script + React + Next JS
+My Skills : HTML + CSS + Java Script + React + Next JS + TypeScript
 ___
 
 my projects : 
